@@ -8,6 +8,7 @@ According to the phase when de-duplication iscarried out, relevant techniques ca
 Concerning security issues of client-aided data de-duplication, cloud servers are supposed to be honest, but also curious, which may interest in the privacy outsourced by users. Therefore, clients are apt to upload their data in the form of cipher-texts. 
 
 There are three main objectives of the project. They are: 
+
 •	To refrain the client from uploading reduplicative files.
 •	To overcome the security problems that are faced in convergence encryption system.
 •	To alleviate the conflicts between functionality and security, the system and security models are defined.
